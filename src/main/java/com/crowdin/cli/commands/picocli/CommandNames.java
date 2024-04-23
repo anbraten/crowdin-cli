@@ -23,6 +23,7 @@ public final class CommandNames {
 
     public static final String BRANCH = "branch";
     public static final String BRANCH_ADD = "add";
+    public static final String BRANCH_CLONE = "clone";
     public static final String BRANCH_DELETE = "delete";
 
     public static final String GLOSSARY = "glossary";
